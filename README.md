@@ -7,7 +7,7 @@ openGL test in C using GLEW and GLFW
 
 ## Usage
 
-```bash
+```console
 gcc gl_test.c -o gl_test.c -lglfw3 -lGL -lGLEW
 ./gl_test
 ```
