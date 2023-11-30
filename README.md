@@ -1,5 +1,10 @@
 # GlTest
+
 openGL test in C using GLEW and GLFW
+
+## Description
+
+It's just a triangle in a window, you can move it using the arrow keys
 
 ## Dependencies
 + GLEW : https://glew.sourceforge.net/
