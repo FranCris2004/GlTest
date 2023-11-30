@@ -7,6 +7,7 @@ openGL test in C using GLEW and GLFW
 
 ## Usage
 
-...bash
-a
-...
+```console
+foo@bar:~$ whoami
+foo
+```
