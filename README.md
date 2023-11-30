@@ -8,6 +8,5 @@ openGL test in C using GLEW and GLFW
 ## Usage
 
 ```console
-foo@bar:~$ whoami
-foo
+gcc gl_test.c -o gl_test.c -lglfw3 -lGL -lGLEW
 ```
